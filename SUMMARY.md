@@ -6,7 +6,7 @@
 
 * [Kotlin Syntax](01-kotlin-basics/kotlin-syntax/README.md) ✅
 * [Null Safety](01-kotlin-basics/null-safety/README.md) ✅
-* [Functions и Lambdas](01-kotlin-basics/functions-lambdas/README.md)
+* [Functions и Lambdas](01-kotlin-basics/functions-lambdas/README.md) ✅
 * [Data Classes](01-kotlin-basics/data-classes/README.md)
 * [Sealed Classes](01-kotlin-basics/sealed-classes/README.md)
 * [Smart Casts](01-kotlin-basics/smart-casts/README.md)
