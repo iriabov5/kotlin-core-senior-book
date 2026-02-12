@@ -4,8 +4,8 @@
 
 ## Основы Kotlin
 
-* [Kotlin Syntax](01-kotlin-basics/kotlin-syntax/README.md)
-* [Null Safety](01-kotlin-basics/null-safety/README.md)
+* [Kotlin Syntax](01-kotlin-basics/kotlin-syntax/README.md) ✅
+* [Null Safety](01-kotlin-basics/null-safety/README.md) ✅
 * [Functions и Lambdas](01-kotlin-basics/functions-lambdas/README.md)
 * [Data Classes](01-kotlin-basics/data-classes/README.md)
 * [Sealed Classes](01-kotlin-basics/sealed-classes/README.md)
@@ -20,8 +20,8 @@
 
 ## Coroutines
 
-* [Coroutine Basics](03-coroutines/coroutine-basics/README.md)
-* [Async/Await](03-coroutines/async-await/README.md)
+* [Coroutine Basics](03-coroutines/coroutine-basics/README.md) ✅
+* [Async/Await](03-coroutines/async-await/README.md) ✅
 * [Coroutine Context](03-coroutines/coroutine-context/README.md)
 * [Coroutine Scopes](03-coroutines/coroutine-scopes/README.md)
 * [Structured Concurrency](03-coroutines/structured-concurrency/README.md)
